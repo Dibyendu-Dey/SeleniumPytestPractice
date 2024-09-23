@@ -1,0 +1,5 @@
+The page is loaded successfully
+Locating the search Bar
+Searching the item Strawberry
+Adding the item Strawberry to the cart
+Match
